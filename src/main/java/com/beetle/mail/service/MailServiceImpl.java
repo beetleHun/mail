@@ -1,4 +1,4 @@
-package com.beetle.service;
+package com.beetle.mail.service;
 
 import org.springframework.stereotype.Service;
 

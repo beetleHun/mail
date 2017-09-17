@@ -1,4 +1,4 @@
-package com.beetle.util;
+package com.beetle.mail.util;
 
 import org.springframework.stereotype.Component;
 
